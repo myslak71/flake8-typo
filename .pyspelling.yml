@@ -1,0 +1,4 @@
+matrix:
+- name: Python Source
+  sources:
+  - flake8_typo/**/*.py

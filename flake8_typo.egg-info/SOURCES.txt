@@ -1,0 +1,11 @@
+README.md
+setup.py
+flake8_typo/__about__.py
+flake8_typo/__init__.py
+flake8_typo/checker.py
+flake8_typo.egg-info/PKG-INFO
+flake8_typo.egg-info/SOURCES.txt
+flake8_typo.egg-info/dependency_links.txt
+flake8_typo.egg-info/entry_points.txt
+flake8_typo.egg-info/requires.txt
+flake8_typo.egg-info/top_level.txt

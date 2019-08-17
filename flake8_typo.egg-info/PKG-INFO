@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: flake8-typo
+Version: 0.0.1
+Summary: flake8 extension for typo checking.
+Home-page: UNKNOWN
+Author: myslak71
+Author-email: myslak@protonmail.com
+License: MIT
+Download-URL: https://github.com/myslak71/flake8-typo/archive/v0.0.1.tar.gz
+Description: # flake8-typo
+        flake8 extension for typo checks.
+        
+         `sudo apt-get install libhunspell-dev`
+        
+Keywords: linter,flake8,typo,extension
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: dev
